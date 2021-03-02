@@ -1,1 +1,1 @@
-# CozyChat
+# CozyChat - Client
