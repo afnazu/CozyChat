@@ -1,1 +1,1 @@
-# CozySpace
+# CozyChat
